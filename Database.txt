@@ -1,0 +1,12 @@
+DATABASE INSTRUCTION FOR THIS PROJECT
+=====================================
+Database -> Login
+There is only one table in Database. i.e. logininfo
+
+Attribute in logininfo:
+- id ( autoincrement)
+- name (varchar)
+- email (varchar)
+- password
+
+I hope this is enough to replicate this project. After correct installation you can register data in the table (logininfo).
